@@ -3,4 +3,4 @@ omnifood  html repaired
 
 
 ## link
-https://lukasviliams.github.io/omnifood-project/.
+https://lukasviliams.github.io/omnifood-project/
