@@ -111,5 +111,8 @@
         .logo {height: 50px;}
 
     h1 {margin-bottom: 200px;}
+    
+    .btn btn-full {margin-bottom: 300px;}
+    .btn btn-ghos {margin-bottom: 300px;}
 
 }
